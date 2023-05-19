@@ -1,6 +1,6 @@
 <h1> AquaAlert </h1> 
 
-
+![Projeto AquaAlert](https://github.com/raigumieri/Sprint2-EDGE/assets/127215645/53a9493a-d933-404e-a8e3-2a8d52a0950d)
 
 > Status: Concluido ✔️
 
@@ -11,67 +11,31 @@
  + Ian Xavier Kuaroka RM:98860
  + Raí Gumieri dos Santos  RM:98287
 
+<h2> Objetivo do Projeto </h2>
+<p> O principal objetivo desse projeto é alertar as pessoas sobre o risco de enchentes e avisando os responsáveis que precisam dessa análise, para tomar uma medida eficiente a respeito. Muitas regiões do Brasil sofrem com esse problema, aumentando o número de propriedades destruídas e prejuízos econômicos, sejam elas de comercios ou de famílias que estão envolvidos nessas ocorrências. </p>
+
 ## Materiais necessários:
 + Um Arduino Uno R3;
-+ Cinco LEDs;
-+ Cinco resistores (330 Ω);
-+ Um resistor (100 Ω);
-+ Um resistor (10 kΩ);
-+ Um Fotorresistor;
-+ Um piezo;
-+ Display LCD 16x2;
 + Um Potenciômetro (250 kΩ);
-+ Sensor de Temperatura.
++ Sensor de Temperatura;
++ Sensor de Umidade do Solo.
 
-<h2> Objetivo do Projeto </h2>
-<p>Este projeto tem como principal objetivo atender as necessidades de uma Vinheria, com intenção de verificar se o ambiente onde está sendo mantido os vinhos permanece com temperatura, umidade e luminosidade adequada, por meio de códigos e peças apropriadas para esse tipo de serviço. Após o equipamento fazer a verificação, os dados são coletados pelos sensores e vão aparecer diretamente no Display LCD, apresentando os avisos de acordo com os valores retirados do equipamento. </p>
 
- <h3> Sensor de Luminosidade 💡 </h3> 
-
-<p> Começando pelo sensor de luminosidade, seu objetivo é informar ao dono da loja se o estoque de seus produtos estão sendo mantidos em uma luminosidade adequada. Para isso ser feito, é necessário seguir algumas recomendações, que são: </p>
+<h2>  Detalhes do Projeto </h2>
+<p> Existem alguns aparelhos que auxiliam na checagem do nível de enchente, começando por uma analise da região e dizendo qual é a chance de ter uma enchente e mostrando os dados. Entretanto, mesmo com essas possibilidas, elas também possuem desvantagens, que seriam: </p>
 
 <ul>
-  <li> Se o ambiente estiver escuro, a iluminação está ok; </li>
-  <li> Se o ambiente estiver a meia luz, é necessário dar um aviso; </li>
-  <li> Se o ambiente estiver muito claro, é importante emitir um aviso urgente. </li>
+  <li> Montagem complexa; </li>
+  <li> Preços elevados; </li>
+  <li> Atraso da entrega de informações. </li>
 </ul>
 
-<p> Diante disso, foi criado um código para monitorar a iluminação do local e aparecer na tela LCD uma mensagem, informando como está o ambiente. As peças necessárias para isso foram: <p>
-  
- <ul>
-  <li> Três LEDs; </li>
-  <li> Um Fotorresistor; </li>
-  <li> Um Piezo; </li>
-  <li> Três resistores; (330 Ω); </li>
-  <li> Um resistor (100 Ω); </li>
-  <li> Display LCD. </li>
-</ul>
+<p> Diante dessas complicações, montamos um protótipo do AquaAlert, sendo mais acessível para as pessoas, facilitando a montagem por um preço justo e enviando as informações com mais precisão, melhorando a confiabilidade do nosso produto. Em relação ao envio de informações, elas poderão ser acessadas por um aplicativo de celular, fazendo com que todas as pessoas possam estar cientes sobre algum risco próximo de sua localização, recebendo uma rota de fuga, caso haja necessidade.</p>
 
-<h3> Sensor de Temperatura e Umidade ❄️ </h3>
 
-<p> A função desse sensor é fazer a medição do ambiente, com o intuito de saber se a temperatura e umidade estão adequadas ao local. Para isso ser feito, é necessário seguir algumas recomendações, são elas: </p>
+<h3> Considerações finais </h3>
 
-<ul>
-  <li> Se o ambiente estiver com uma temperatura entre 10°C e 15°C, ela está ok; </li>
-  <li> Se o ambiente estiver com uma temperatura maior que 15°C, ela está alta; </li>
-  <li> Se o ambiente estiver com uma temperatura menor que 10°C, ela está baixa;</li>
-  <li> Se o ambiente estiver com a umidade entre 50% e 70%, ela está ok; </li>
-  <li> Se o ambiente estiver com a umidade maior que 70%, ela está alta; </li>
-  <li> Se o ambiente estiver com a umidade menor que 50%, ela está baixa. </li>
-</ul>
+<p> Essa é a nossa ideia para amenizar o problema sobre as enchentes, isso é algo que ocorre com bastante frequência e deve ser resolvido com urgência! </p>
 
-<p> No projeto físico, é apropriado usar uma peça chamada DHT11 e baixar sua biblioteca, pois a função dela é medir justamente esses tópicos. Entretando não é possível utilizar esse material no projeto online, já que o DHT11 não está disponível no site. Por conta disso, o projeto possui um sensor de temperatura e um potenciômetro para simular o valor de umidade que seria obtido e logo em seguida ser apresentado diretamente no Display LCD. Concluindo que os materias utilizados foram: </p>
 
-<ul>
-  <li> Um Potenciômetro; </li>
-  <li> Um Sensor de Temperatura; </li>
-  <li> Dois LEDs; </li>
-  <li> Dois resistores (330  Ω); </li>
-  <li> Piezo; </li>
-  <li> Display LCD. </li>
-</ul>
-
-<h2> Conclusão </h2>
-<p>Após concluir esse projeto, foram feitos diversos testes a procura de falhas, erros e defeitos. Entretando, ele foi finalizado com sucesso, atendendo o que foi solicitado para o grupo. Esperamos que tenha gostado!</p>
-
-<p> Muito obrigado pela atenção! 🎓 </p>
+<p> Agradecemos pela atenção! 🎓 </p>
