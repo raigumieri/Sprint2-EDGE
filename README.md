@@ -12,30 +12,29 @@
  + Raí Gumieri dos Santos  RM:98287
 
 <h2> Objetivo do Projeto </h2>
-<p> O principal objetivo desse projeto é alertar as pessoas sobre o risco de enchentes e avisando os responsáveis que precisam dessa análise, para tomar uma medida eficiente a respeito. Muitas regiões do Brasil sofrem com esse problema, aumentando o número de propriedades destruídas e prejuízos econômicos, sejam elas de comercios ou de famílias que estão envolvidos nessas ocorrências. </p>
+<p> O principal objetivo deste projeto é alertar e conscientizar as pessoas sobre os riscos associados às enchentes, bem como fornecer informações às autoridades competentes, a fim de tomar medidas eficazes para lidar com essa questão. As enchentes são um problema recorrente em diversas regiões do Brasil, causando danos extensos às propriedades e resultando em prejuízos econômicos significativos tanto para estabelecimentos comerciais quanto para famílias afetadas por esses eventos. </p>
 
 ## Materiais necessários:
 + Um Arduino Uno R3;
++ Placa de Ensaio;
 + Um Potenciômetro (250 kΩ);
 + Sensor de Temperatura;
 + Sensor de Umidade do Solo.
 
 
 <h2>  Detalhes do Projeto </h2>
-<p> Existem alguns aparelhos que auxiliam na checagem do nível de enchente, começando por uma analise da região e dizendo qual é a chance de ter uma enchente e mostrando os dados. Entretanto, mesmo com essas possibilidas, elas também possuem desvantagens, que seriam: </p>
+<p> Existem dispositivos disponíveis que auxiliam na verificação do nível de enchente, fornecendo análises da região e indicando a probabilidade de ocorrer uma enchente, além de exibir os dados coletados. No entanto, essas opções também apresentam desvantagens, como: </p>
 
 <ul>
   <li> Montagem complexa; </li>
   <li> Preços elevados; </li>
-  <li> Atraso da entrega de informações. </li>
+  <li> Atraso na entrega de informações. </li>
 </ul>
 
-<p> Diante dessas complicações, montamos um protótipo do AquaAlert, sendo mais acessível para as pessoas, facilitando a montagem por um preço justo e enviando as informações com mais precisão, melhorando a confiabilidade do nosso produto. Em relação ao envio de informações, elas poderão ser acessadas por um aplicativo de celular, fazendo com que todas as pessoas possam estar cientes sobre algum risco próximo de sua localização, recebendo uma rota de fuga, caso haja necessidade.</p>
+<p> Diante dessas complicações, desenvolvemos o protótipo AquaAlert, que busca oferecer uma solução mais acessível, facilitando a montagem por um preço justo e fornecendo informações mais precisas, aprimorando a confiabilidade do produto. Além disso, as informações coletadas poderão ser acessadas por meio de um aplicativo de celular, permitindo que as pessoas estejam cientes dos riscos próximos à sua localização e recebam rotas de fuga, caso necessário.</p>
 
 
-<h3> Considerações finais </h3>
+<h2> Considerações Finais </h2>
 
-<p> Essa é a nossa ideia para amenizar o problema sobre as enchentes, isso é algo que ocorre com bastante frequência e deve ser resolvido com urgência! </p>
+<p> O projeto AquaAlert surge como uma proposta para mitigar o problema das enchentes, um desafio frequente que demanda soluções urgentes. Agradecemos pela atenção e esperamos contribuir para a redução dos impactos causados pelas enchentes. </p>
 
-
-<p> Agradecemos pela atenção! 🎓 </p>
