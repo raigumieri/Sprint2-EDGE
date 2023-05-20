@@ -51,7 +51,7 @@
 
 <h2 align="center"> Funcionalidade do Projeto ⚙️ </h2>
 <br>
-<p align="justify"> A função do dispositivo é informar às pessoas se o risco de enchente é alto ou baixo. Para realizar essa medição, serão utilizados sensores de temperatura, umidade do ar e umidade do solo. Com base nos resultados obtidos, o dispositivo irá avaliar se existe algum perigo iminente na região. Caso ocorra algum erro nos resultados, será feita uma verificação para identificar se alguma peça do aparelho está danificada ou se há algum erro no cálculo. Esses problemas poderão ser solucionados de maneira precisa. </p>
+<p align="justify"> A função do dispositivo é informar às pessoas se o risco de enchente é alto ou baixo. Para realizar essa medição, serão utilizados sensores de temperatura, umidade do ar e umidade do solo. Diversas unidades serão espalhadas por regiões que apresenteam riscos em potencial e com base nos resultados obtidos, o dispositivo irá avaliar se existe algum perigo iminente ou não. Caso haja alguma divergência muito grande nos resultados de uma unidade em relação as outras ou caso haja perda de sinal com uma ou mais unidades será feita uma verificação para identificar se há algum problema no aparelho ou se há algum erro no cálculo. Assim, esses problemas poderão ser solucionados de maneira sucinta. </p>
 
 <p align="justify"> Uma foto do projeto virtual AquaAlert foi capturada, porém, o site não possui a peça DHT11, que seria utilizada para medir a temperatura e umidade do ar. No entanto, um potenciômetro foi utilizado como substituto para simular o valor da umidade. O programa foi testado com frequência e os erros que surgiram ao longo do processo foram devidamente corrigidos, o que garante que o dispositivo esteja funcional. </p>
 
